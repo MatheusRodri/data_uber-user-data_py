@@ -23,3 +23,9 @@ Obs: Os fonte dos dados foram retirados do projeto por se tratar de dados pessoa
 - Execute o arquivo `main.ipynb` para gerar o arquivo `final.xlsx`
 - Abra o arquivo `dashboard.pbix` no Power BI
 - Clique em "Atualizar" para carregar os dados
+
+
+## Dashboard
+
+![Dashboard](./dash.png)
+
